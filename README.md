@@ -6,7 +6,7 @@
 👉 <b>(UBUNTU 18)</b>
 
 ```
-apt update && apt upgrade && apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/rafsstore/painelv2/ubuinst.sh)
+apt update && apt upgrade && apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/rafsstore/painelv2/main/ubuinst.sh)
 ```
 </br>
 
@@ -17,7 +17,7 @@ R4fsN3T4G
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
 ```
-apt install wget -y; bash <(wget -qO- https://raw.githubusercont.com/rafsstore/painelv2/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercont.com/rafsstore/painelv2/main/sincpainel.sh)
 ```
 
 # 𓊈𒆜 SINCRONIZAR 2 NA VPS SSH! 𒆜𓊉
