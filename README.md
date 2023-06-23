@@ -6,7 +6,7 @@
 👉 <b>(UBUNTU 18)</b>
 
 ```
-apt update && apt upgrade && apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/rafsstore/painelv2/main/ubuinst.sh)
+apt update -y && apt upgrade -y && apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/rafsstore/painelv2/main/ubuinst.sh)
 ```
 </br>
 
